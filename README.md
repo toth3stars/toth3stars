@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toth3stars
-- 👀 I’m interested in Blockchain, JavaScript, Rust, Solidity, Python
+- 👀 I’m interested in Blockchain, JavaScript, Solidity
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
